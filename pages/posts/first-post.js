@@ -7,7 +7,7 @@ const FirstPost = (props) => {
       <Head>
         <title>This is a post MF!</title>
       </Head>
-      <h1>First Post</h1>
+      <h1>Just a page</h1>
     </Layout>
   );
 };
